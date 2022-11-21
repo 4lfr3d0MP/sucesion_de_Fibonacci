@@ -1,0 +1,7 @@
+C:\Users\alfredo M\source\repos\Sucesion_Fibb\bin\Debug\Sucesion_Fibb.exe.config
+C:\Users\alfredo M\source\repos\Sucesion_Fibb\bin\Debug\Sucesion_Fibb.exe
+C:\Users\alfredo M\source\repos\Sucesion_Fibb\bin\Debug\Sucesion_Fibb.pdb
+C:\Users\alfredo M\source\repos\Sucesion_Fibb\obj\Debug\Sucesion_Fibb.csproj.AssemblyReference.cache
+C:\Users\alfredo M\source\repos\Sucesion_Fibb\obj\Debug\Sucesion_Fibb.csproj.CoreCompileInputs.cache
+C:\Users\alfredo M\source\repos\Sucesion_Fibb\obj\Debug\Sucesion_Fibb.exe
+C:\Users\alfredo M\source\repos\Sucesion_Fibb\obj\Debug\Sucesion_Fibb.pdb
